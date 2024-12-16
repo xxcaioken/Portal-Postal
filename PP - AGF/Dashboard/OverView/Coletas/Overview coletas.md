@@ -4,10 +4,16 @@
 - Grafico:
 	- Demonstra a quantidade de entregas ?????
 - Coletadores:
-	- Os coletadores são exibidos aqui junto com suas intregras e pendecias exibidas por esse botões com tooltips
-		 - ![[Pasted image 20241216120203.png]]
-		 - Descrição das cores:
-			 - Azul -> total pendentes
-			 - Verde -> total coletados
-			 - Vermelho -> total outros status
-			 - Preto -> total de coletas
+	- Os coletadores são exibidos aqui junto com suas integras e pendencias exibidas por esse botões com tooltips
+
+		 
+![[Pasted image 20241216120203.png]]		 
+
+Descrição das cores:
+
+| Cor      | Status              |
+| -------- | ------------------- |
+| Azul     | total pendentes     |
+| Verde    | total coletados     |
+| Vermelho | total outros status |
+| Preto    | total de coletas    |

@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4dc14f05ef316a",
+        "id": "481d80e6598a1e03",
         "type": "tabs",
         "children": [
           {
-            "id": "a89186f545f89210",
+            "id": "a24053e9ef879f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PP - AGF/Dashboard/Monitores/Monitor ECT/Monitor ECT.md",
+                "file": "PP - AGF/Telegramas/Telegramas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monitor ECT"
-            }
-          },
-          {
-            "id": "661515cecf233ce8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Telegramas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PP - AGF/Telegramas/Telegramas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Telegramas"
             }
           },
           {
@@ -122,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PP - AGF/Telegramas/Telegramas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Telegramas"
             }
           },
           {
@@ -147,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "PP - AGF/Telegramas/Telegramas.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Telegramas"
             }
           }
         ]
@@ -169,12 +162,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "661515cecf233ce8",
+  "active": "a24053e9ef879f88",
   "lastOpenFiles": [
-    "PP - AGF/Sistemas/ECT disponibilidade.md",
+    "ServTelegramaFormulario.pdf",
+    "Pasted image 20241216155424.png",
+    "IMGS/Pasted image 20241216155154.png",
+    "PP - AGF/Telegramas/Telegramas.md",
+    "PP - AGF/Telegramas/Formulario/Formulário de telegrama.md",
+    "PP - AGF/UTILS/Telegramas/Telegrama.md",
+    "PP - AGF/Telegramas/Status/Telegrama estados.md",
+    "IMGS/Pasted image 20241216154420.png",
+    "PP - AGF/Telegramas/Formulario",
+    "IMGS/Pasted image 20241216154344.png",
+    "IMGS/Pasted image 20241216154203.png",
+    "IMGS/Pasted image 20241216153801.png",
+    "PP - AGF/UTILS/SARA.md",
+    "IMGS/Pasted image 20241216152738.png",
+    "PP - AGF/Telegramas/Status",
+    "PP - AGF/PP MENU.md",
     "PP - AGF/Dashboard/DASHBOARD.md",
+    "PP - AGF/UTILS/AGF.md",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/Monitor ECT.md",
-    "IMGS/Pasted image 20241216142853.png",
+    "IMGS/Pasted image 20241216151702.png",
+    "PP - AGF/Dashboard/OverView/Coletas/Overview coletas.md",
+    "PP - AGF/UTILS/Telegramas",
+    "PP - AGF/Telegramas",
+    "PP - AGF/Dashboard/OverView/AGF/Overview AGF.md",
+    "PP - AGF/Dashboard/ABC/ABC.md",
+    "IMGS/Pasted image 20241216145559.png",
+    "PP - AGF/UTILS",
+    "PP - AGF/Dashboard/Monitores/Monitor ToutBox/Monitor ToutBox.md",
+    "PP - AGF/Dashboard/Relações Crédito ECT",
+    "IMGS/Pasted image 20241216145514.png",
+    "PP - AGF/Sistemas/ECT disponibilidade.md",
     "Sem título.canvas",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/Cards/TARIFAÇÃO CARD.md",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/Cards/SVP CARD.md",
@@ -182,40 +202,14 @@
     "PP - AGF/Dashboard/Monitores/Monitor ECT/Cards/SIGEPWEB CARD.md",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/Cards/PI CARD.md",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/Cards/CARD de Monitoramento da Logística Reversa.md",
-    "PP - AGF/Sistemas/SVP.md",
-    "IMGS/Pasted image 20241216142833.png",
-    "IMGS/Pasted image 20241216142818.png",
-    "IMGS/Pasted image 20241216142756.png",
-    "IMGS/Pasted image 20241216142726.png",
+    "PP - AGF/UTILS/Sistemas/SVP.md",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/cards/ECT cards disponibilidade.md",
-    "PP - AGF/Sistemas/Monitoramento da Logística Reversa.md",
-    "PP - AGF/Sistemas/TARIFAÇÃO.md",
-    "PP - AGF/Sistemas/SRO.md",
-    "PP - AGF/Sistemas/SIGEPWEB.md",
-    "PP - AGF/Sistemas/PI.md",
-    "IMGS/Pasted image 20241216142524.png",
-    "PP - AGF/Sistemas/ECT cards disponibilidade.md",
-    "PP - AGF/Sistemas/CARD de Monitoramento da Logística Reversa.md",
-    "PP - AGF/Contrato/Cliente/Contratos.md",
-    "PP - AGF/Sistemas",
-    "PP - AGF/Sistemas/PI CARD.md",
-    "PP - AGF/Sistemas/TARIFAÇÃO CARD.md",
-    "PP - AGF/Sistemas/SIGEPWEB CARD.md",
-    "PP - AGF/Sistemas/SRO CARD.md",
-    "PP - AGF/Sistemas/SVP CARD.md",
+    "PP - AGF/UTILS/Sistemas/Monitoramento da Logística Reversa.md",
+    "PP - AGF/UTILS/Sistemas/TARIFAÇÃO.md",
+    "PP - AGF/UTILS/Sistemas/SRO.md",
+    "PP - AGF/UTILS/Sistemas",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/cards/Sem título",
-    "PP - AGF/Dashboard/OverView/AGF/Overview AGF.md",
     "PP - AGF/Dashboard/Monitores/Monitor ECT/Cards",
-    "IMGS/Pasted image 20241216140409.png",
-    "PP - AGF/Dashboard/Monitores/Monitor ToutBox",
-    "PP - AGF/Dashboard/Monitores/Monitor ECT",
-    "PP - AGF/Dashboard/Monitores",
-    "IMGS/Pasted image 20241216140025.png",
-    "PP - AGF/Dashboard/ABC",
-    "IMGS/Pasted image 20241216133516.png",
-    "IMGS/Pasted image 20241216133458.png",
-    "PP - AGF/Dashboard/Raio-X/Cliente",
-    "PP - AGF/Dashboard/Raio-X/AGF",
-    "PP - AGF/Dashboard/Raio-X"
+    "PP - AGF/Dashboard/Monitores/Monitor ToutBox"
   ]
 }
