@@ -1,0 +1,6 @@
+- Atrasados
+	- [[Relatorios]] para demonstrar dados específicos de encomendas atrasadas.
+		- ![[Pasted image 20241216113326.png]]
+- Log de acessos ao sistema web por periodo sintetico
+	- [[Relatorios]] para demonstrar quem(IP) logou no sistema web em um determinado espaço de tempo.
+		- ![[Pasted image 20241216113526.png]]
