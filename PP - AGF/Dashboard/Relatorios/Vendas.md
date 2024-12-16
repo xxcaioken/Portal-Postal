@@ -1,8 +1,8 @@
 - Clientes por período
 	- [[Relatorios]] para demonstrar dados especificos da venda para um cliente.
 		- ![[Pasted image 20241216101856.png]]
-- AGF por período
-	- [[Relatorios]] para demonstrar resultado de vendas via PP da AGF.
+- [[AGF]] por período
+	- [[Relatorios]] para demonstrar resultado de vendas via PP da [[AGF]].
 		- ![[Pasted image 20241216102125.png]]
 - Clientes comparativo mes a mes
 	- [[Relatorios]] para demonstrar comparativo de vendas mensal por cliente.
@@ -13,7 +13,7 @@
 - Comparativo do envio de cartas ou encomendas do cliente(Mensal)
 	- [[Relatorios]] comparativo do envio de cartas ou encomendas usando o cliente como parâmetro.
 		- ![[Pasted image 20241216102824.png]]
--  Faturado AGF por período sintético
+-  Faturado [[AGF]] por período sintético
 	- [[Relatorios]] aonde estabelece um período "sintético" e a partir dele mostra o faturamento vindo dos clientes
 		- ![[Pasted image 20241216103125.png]]
 -  Contrato ECTS por período sintético

@@ -1,0 +1,2 @@
+- Nesta tela temos os clientes que ainda são consignado diretamente com a [[AGF]] Que possuem um valor especifico de etiquetas em sequencia para serem utilizadas. nos conseguimos visualizar em vermelho e caso necessário clicar em seu nome para ir para uma tela aonde podemos gerar mais etiquetas!
+- ![[Pasted image 20241216162058.png]]

@@ -1,2 +1,3 @@
 [[DASHBOARD]]
-[[PP - AGF/Telegramas/Telegramas]]
+[[Telegramas]]
+[[Etiqueta MENU]]

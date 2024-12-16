@@ -1,0 +1,2 @@
+- Nesta área do sistema podemos consultar todas as etiquetas que foram consideradas inutilizadas, podendo visualizar mais profundamente através do N° de Obj ou Através da lupa.
+- ![[Pasted image 20241216164701.png]]

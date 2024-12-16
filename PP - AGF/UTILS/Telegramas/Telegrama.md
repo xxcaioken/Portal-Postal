@@ -1,4 +1,4 @@
-## **O que é um Telegrama?**
+## **O que é um Telegrama:**
 
 O telegrama é um serviço de comunicação oficial e rápida oferecido pelos Correios do Brasil. Trata-se de uma mensagem escrita enviada eletronicamente para destinatários em qualquer lugar do país, com a garantia de entrega em um curto período. O conteúdo do telegrama é digitado pelo remetente e enviado para os Correios, que se encarregam de imprimi-lo e entregá-lo fisicamente ao destinatário.
 
@@ -13,7 +13,7 @@ O telegrama é um serviço de comunicação oficial e rápida oferecido pelos Co
 
 ---
 
-### **Quando é usado?**
+### **Quando é usado:**
 
 O telegrama é especialmente utilizado em situações que exigem **formalidade e urgência**. Alguns exemplos incluem:
 

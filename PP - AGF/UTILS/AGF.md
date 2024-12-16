@@ -1,4 +1,4 @@
-## **O que é uma AGF nos Correios?**
+## **O que é uma AGF nos Correios:
 
 A **AGF** (Agência Franqueada dos Correios) é uma unidade de atendimento dos Correios operada por meio de um contrato de franquia com empresas ou empreendedores privados. Essas agências oferecem uma ampla gama de serviços postais e não postais, funcionando como uma extensão da rede oficial dos Correios, mas com administração independente.
 
@@ -33,7 +33,7 @@ A **AGF** (Agência Franqueada dos Correios) é uma unidade de atendimento dos C
 
 ---
 
-### **Como Diferem das Agências Próprias?**
+### **Como Diferem das Agências Próprias:**
 
 - **Gestão**: As agências próprias são administradas diretamente pelos Correios, enquanto as AGFs são operadas por franquias.
 - **Investimento Privado**: As AGFs são criadas e mantidas com recursos do franqueado, que recebe treinamento e suporte da estatal.
