@@ -1,0 +1,2 @@
+Esta tela nos permite um cadastro de uma coleta única, informando o solicitante, seu contato responsável e o coletador responsável pela coleta.(**DETALHE NUNCA SERA FIXO ESSA ENTREGA**) 
+![[Pasted image 20241216171720.png]]
