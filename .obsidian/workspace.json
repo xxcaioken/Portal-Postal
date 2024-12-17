@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "001b280683d85e7c",
+        "id": "4a13b0400022cf37",
         "type": "tabs",
         "children": [
           {
-            "id": "1e8d2aabcdf3e74a",
+            "id": "9606b95461e8b3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PP - AGF/Coleta/Acompanhamento/Acompanhamento.md",
+                "file": "PP - AGF/UTILS/Sistemas/PPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acompanhamento"
+              "title": "PPN"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Estados",
+                "query": "tag:#avista",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PP - AGF/Coleta/Acompanhamento/Acompanhamento.md",
+                "file": "PP - AGF/UTILS/Sistemas/PPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Acompanhamento"
+              "title": "Links inversos para PPN"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PP - AGF/Coleta/Acompanhamento/Acompanhamento.md",
+                "file": "PP - AGF/UTILS/Sistemas/PPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Acompanhamento"
+              "title": "Links de saída para PPN"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PP - AGF/Coleta/Acompanhamento/Acompanhamento.md"
+                "file": "PP - AGF/UTILS/Sistemas/PPN.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Acompanhamento"
+              "title": "Sumário de PPN"
             }
           }
         ]
@@ -162,53 +162,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1e8d2aabcdf3e74a",
+  "active": "2192e97e3aa69c29",
   "lastOpenFiles": [
-    "Sem título.canvas",
-    "PP - AGF/Coleta/Acompanhamento/Acompanhamento.md",
-    "2024-12-16.md",
-    "PP - AGF/Dashboard/OverView/Coletas/Overview coletas.md",
-    "PP - AGF/Coleta/Cadastro de rotas/Cadastro de rotas.md",
-    "PP - AGF/Dashboard/Relatorios/Clientes.md",
-    "PP - AGF/Dashboard/Relatorios/Relatorios.md",
-    "PP - AGF/Dashboard/Relatorios/Outros Relatórios.md",
-    "PP - AGF/Dashboard/Relatorios/Coletas.md",
-    "PP - AGF/Telegramas/Telegramas.md",
-    "PP - AGF/Telegramas/Status/Telegrama estados.md",
+    "PP - AGF/UTILS/Contrato/Cliente/Contratos.md",
+    "PP - AGF/Etiquetas/Etiquetas Restantes/Etiquetas Restantes.md",
+    "PP - AGF/Etiquetas/Etiquetas Pendentes/Etiquetas Pendentes.md",
+    "PP - AGF/Etiquetas/Sequências Geradas/Sequências Geradas.md",
+    "PP - AGF/Etiquetas/Pesquisar Etiqueta/Pesquisar Etiqueta.md",
+    "PP - AGF/Etiquetas/Etiquetas Inutilizadas/Etiquetas Inutilizadas.md",
+    "PP - AGF/PP MENU.md",
+    "PP - AGF/UTILS/Sistemas/PPN.md",
+    "PP - AGF/Veículo/Relatório de consumo de combustível.md",
+    "PP - AGF/Veículo/Sinistro.md",
+    "PP - AGF/Veículo/Seguro.md",
+    "PP - AGF/Veículo/Multa.md",
+    "PP - AGF/Veículo/Combustível.md",
+    "PP - AGF/Veículo/IPVA.md",
+    "PP - AGF/Veículo/Manutenção.md",
+    "PP - AGF/Veículo/Quilometragem.md",
+    "PP - AGF/Veículo/Cadastro.md",
+    "PP - AGF/Veículo/Veículo MENU.md",
+    "IMGS/Pasted image 20241217093127.png",
+    "IMGS/Pasted image 20241217092808.png",
+    "PP - AGF/Veículo",
+    "PP - AGF/Importações/Importações.md",
     "PP - AGF/Coleta/Coleta MENU.md",
+    "PP - AGF/Dashboard/Relatorios/Coletas.md",
+    "PP - AGF/Importações/Arquivo de Retorno de AR.md",
+    "IMGS/Pasted image 20241217092238.png",
+    "IMGS/Pasted image 20241217092150.png",
+    "IMGS/Pasted image 20241217091930.png",
+    "PP - AGF/UTILS/AR.md",
+    "PP - AGF/Dashboard/Monitores/Monitor ECT/Cards/SRO CARD.md",
+    "PP - AGF/Dashboard/Monitores/Monitor ECT/Monitor ECT.md",
+    "PP - AGF/UTILS/Sistemas/SRO.md",
+    "PP - AGF/Importações",
+    "Sem título.canvas",
     "IMGS/Pasted image 20241216170104.png",
     "IMGS/Pasted image 20241216173315.png",
     "IMGS/Pasted image 20241216173158.png",
     "IMGS/Pasted image 20241216173038.png",
     "IMGS/Pasted image 20241216173036.png",
-    "PP - AGF/Coleta/Nova coleta/Nova Coleta.md",
-    "PP - AGF/Coleta/Tipos de coleta/Tipos de coleta.md",
-    "IMGS/Pasted image 20241216172725.png",
-    "IMGS/Pasted image 20241216172720.png",
-    "IMGS/Pasted image 20241216172652.png",
-    "IMGS/Pasted image 20241216171720.png",
-    "IMGS/Pasted image 20241216171515.png",
     "PP - AGF/Coleta/Tipos de coleta",
     "PP - AGF/Coleta/Cadastro de rotas",
     "PP - AGF/Coleta/Nova coleta",
     "PP - AGF/Coleta/Acompanhamento",
     "PP - AGF/Coleta",
-    "PP - AGF/Etiquetas/Sequências Geradas/Sequências Geradas.md",
-    "PP - AGF/Etiquetas/Pesquisar Etiqueta/Pesquisar Etiqueta.md",
-    "PP - AGF/Etiquetas/Etiquetas Restantes/Etiquetas Restantes.md",
-    "PP - AGF/Etiquetas/Etiquetas Pendentes/Etiquetas Pendentes.md",
-    "PP - AGF/Etiquetas/Etiquetas Inutilizadas/Etiquetas Inutilizadas.md",
-    "PP - AGF/Etiquetas/Etiqueta MENU.md",
-    "PP - AGF/Dashboard/Relatorios/Vendas.md",
-    "PP - AGF/Dashboard/OverView/AGF/Overview AGF.md",
-    "PP - AGF/Dashboard/Raio-X/AGF/Raio-X AGF.md",
-    "PP - AGF/Dashboard/DASHBOARD.md",
-    "PP - AGF/UTILS/AGF.md",
-    "PP - AGF/PP MENU.md",
     "PP - AGF/Etiquetas/Etiquetas Inutilizadas",
     "PP - AGF/Etiquetas/Etiquetas Pendentes",
-    "PP - AGF/Etiquetas/Pesquisar Etiqueta",
-    "PP - AGF/Etiquetas/Sequências Geradas",
-    "PP - AGF/Etiquetas/Gerenciar etiquetas/Sem título"
+    "PP - AGF/Etiquetas/Pesquisar Etiqueta"
   ]
 }
