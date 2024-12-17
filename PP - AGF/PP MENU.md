@@ -1,6 +1,11 @@
 - [[DASHBOARD]]
-- [[Telegramas]]
+- [[Telegramas MENU]]
 - [[Etiqueta MENU]]
 - [[Coleta MENU]]
-- [[Importações]]
+- [[Importações MENU]]
 - [[Veículo MENU]]
+- [[Cadastros MENU]]
+- [[Configurações MENU]]
+- 
+- [[Minha conta MENU]]
+- [[Versões]]
