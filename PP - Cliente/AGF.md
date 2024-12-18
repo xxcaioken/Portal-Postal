@@ -1,0 +1,1 @@
+[aaa](obsidian://open?vault=PP%20-%20AGF&file=PP%20MENU)
