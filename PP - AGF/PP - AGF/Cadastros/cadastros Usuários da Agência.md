@@ -1,0 +1,2 @@
+- ![[Pasted image 20241217173025.png]]
+- Aqui criamos(CRUD) os usuários da AGF, a partir dos perfis de usuário configurado!

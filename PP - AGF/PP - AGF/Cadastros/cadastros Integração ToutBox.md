@@ -1,0 +1,3 @@
+- Cadastro da integração com a plataforma [[ToutBox]] para clientes que a usam para fazer o pós venda da encomenda
+- Utiliza uma conexão FTP
+- ![[Pasted image 20241217174538.png]]

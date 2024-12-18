@@ -1,0 +1,36 @@
+- Clientes por período
+	- [[Relatorios]] para demonstrar dados especificos da venda para um cliente.
+		- ![[Pasted image 20241216101856.png]]
+- [[AGF]] por período
+	- [[Relatorios]] para demonstrar resultado de vendas via PP da [[AGF]].
+		- ![[Pasted image 20241216102125.png]]
+- Clientes comparativo mes a mes
+	- [[Relatorios]] para demonstrar comparativo de vendas mensal por cliente.
+		- ![[Pasted image 20241216102315.png]]
+- Comparativo do serviço por período
+	- [[Relatorios]] para demonstrar comparativo uso dos serviços a partir do período estabelecido pelo cliente.
+		- ![[Pasted image 20241216102615.png]]
+- Comparativo do envio de cartas ou encomendas do cliente(Mensal)
+	- [[Relatorios]] comparativo do envio de cartas ou encomendas usando o cliente como parâmetro.
+		- ![[Pasted image 20241216102824.png]]
+-  Faturado [[AGF]] por período sintético
+	- [[Relatorios]] aonde estabelece um período "sintético" e a partir dele mostra o faturamento vindo dos clientes
+		- ![[Pasted image 20241216103125.png]]
+-  Contrato ECTS por período sintético
+	-  [[Relatorios]] para faturamento de contratos [[Contratos#ECTS]]
+		- ![[Pasted image 20241216103347.png]]
+- Contrato Cliente/Cliente ML por período sintético
+	- [[Relatorios]] para visualizar rentabilidade de Contrato cliente e/ou Contrato ML
+		- ![[Pasted image 20241216103552.png]]
+- Contrato/cartão de postagem ECT por período sintético
+	-  [[Relatorios]] para visualizar quantidade de venda vinda de clientes/ encomendas que possuem relação com o contrato  [[Contratos#ECTS]]
+		- ![[Pasted image 20241216104412.png]]
+- Faturamento cliente/coleta por período sintético
+	-  [[Relatorios]] para visualizar quantidade de venda vinda da coleta de um funcionário em especifico
+		- ![[Pasted image 20241216104733.png]]
+- Market places
+	- ???
+		- ???
+- Serviços utilizados por UF
+	-  [[Relatorios]] para visualizar quantidade de faturamento a partir de uma UF em um período sintético
+		- ![[Pasted image 20241216105813.png]]
