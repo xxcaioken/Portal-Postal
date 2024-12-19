@@ -1,0 +1,1 @@
+- Esta parte do sistema utiliza a nossa api do PP para manter as etiquetas e SRO atualizados em relação ao SIGEP/PPN

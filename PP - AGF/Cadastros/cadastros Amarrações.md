@@ -1,9 +1,0 @@
-- Amarrações tem muito a ver com a expedição:
-	- São código que exemplificam situações especificas como ser ou não maquinavel, PAC ou SEDEX para este estado ou fora, alguns exemplos do treinameno na AGF
-		- SOE (SEDEX maquinavel fora do estado)
-		- SSC (SEDEX maquinavel dentro do estado)
-		- NSC (Não maquinavel dentro do estado)
-		- Nnm (não maquinavel fora do estado)
-		- POE (PAC outro estado)
-		- POS (PAC Objeto ...)
-	- os códigos respeitam as regras referentes a sua criação mas NUNCA essas regras vao sobrepor a as do correio publico. ![[Pasted image 20241217170052.png]]

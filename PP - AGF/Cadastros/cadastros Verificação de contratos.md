@@ -1,2 +1,0 @@
-- ![[Pasted image 20241217172337.png]]
-- Principal função é gerenciar os status dos contratos, para remediar possíveis atrasos gerados por isto ou de perdermos clientes da AGF somado ao CRM.

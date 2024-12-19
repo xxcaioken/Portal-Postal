@@ -1,2 +1,0 @@
-- Nesta tela podemos fazer o gerenciamento de todas as sequencias geradas para este "modelo antigo" de cliente que ainda utiliza o [[SIGEPWEB]] e não o [[PPN]].
-- ![[Pasted image 20241216162334.png]]

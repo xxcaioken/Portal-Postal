@@ -1,1 +1,0 @@
-Esta é uma area de recados para os clientes da [[AGF]] que o visualizarão ao abrir o sistema entre o período definido em sua criação![[Pasted image 20241217155924.png]]![[Pasted image 20241217155818.png]] 

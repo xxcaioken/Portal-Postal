@@ -1,0 +1,3 @@
+- ![[Pasted image 20241218171029.png]]
+- Está tela é importante para que possamos tirar do cliente a necessidade de ficar guardando papel. 
+- Damos assim a possibilidade para a AGF oferecer mais 1 serviço subindo em massa esses AR's usando a web agencia com o intuito de otimizar o tempo do cliente. 

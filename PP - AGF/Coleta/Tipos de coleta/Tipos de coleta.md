@@ -1,6 +1,0 @@
-- Nesta área do PP, podemos adicionar, remover e editar os tipos de coleta, para nossas rotas de coleta.
-	- ![[Pasted image 20241216170104.png]]
-- Para preencher novos tipos:
-	- ![[Pasted image 20241216170241.png]]
-- Para editar e remover:
-	- ![[Pasted image 20241216170300.png]]

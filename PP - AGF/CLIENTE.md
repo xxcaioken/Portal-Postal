@@ -1,0 +1,1 @@
+[Documentação Cliente](obsidian://open?vault=PP%20-%20Cliente&file=PP%20-%20cliente%2FPP%20MENU)

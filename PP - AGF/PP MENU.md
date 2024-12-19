@@ -9,4 +9,3 @@
 - [[Configurações MENU]]
 - [[Financeiro MENU]]
 - [[Minha conta MENU]]
-- [[Versões]]

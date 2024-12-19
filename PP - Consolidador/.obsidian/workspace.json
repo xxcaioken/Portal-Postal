@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "25d707112cbb519c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a4ea2c4461c8094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a558a7c1b5aa6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Consolidador MENU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidador MENU"
+            }
+          },
+          {
+            "id": "25d80af7f57ad524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Consolidador MENU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidador MENU"
+            }
+          },
+          {
+            "id": "8e32ce215c88c10c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Consolidador MENU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidador MENU"
+            }
+          },
+          {
+            "id": "bd5c05f8f7ffa876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Consolidador MENU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidador MENU"
+            }
+          },
+          {
+            "id": "35ed3cee905f6131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Consolidador MENU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidador MENU"
+            }
+          },
+          {
+            "id": "7cfa0484589dcab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Consolidador MENU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidador MENU"
+            }
+          },
+          {
+            "id": "a7c20bb56d12f5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Layout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Layout"
+            }
+          },
+          {
+            "id": "d679e71c15ba55b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Importações/Importação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Importação"
+            }
+          },
+          {
+            "id": "97831cd2d7f10bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PP - Consolidador/Importações/Importação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Importação"
+            }
+          },
+          {
+            "id": "dd350403c2883cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vender"
+            }
+          },
+          {
+            "id": "846b49c1a848ed9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UTILS/PLP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PLP"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54113973436d2735",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3e0b3ef41354506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "856e7ae2173fc15b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0fb590a529110475",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5543d6273deabdf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "a34873d4b7453581",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a54a521f187ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ba6ee53640ca025",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UTILS/PLP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para PLP"
+            }
+          },
+          {
+            "id": "30b75f0fddad473a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UTILS/PLP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para PLP"
+            }
+          },
+          {
+            "id": "c3d6240fd55df0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "761a75bd4979dbdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UTILS/PLP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de PLP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "846b49c1a848ed9f",
+  "lastOpenFiles": [
+    "Sem título.md",
+    "UTILS/PLP.md",
+    "UTILS",
+    "Vender.md",
+    "PP - Consolidador/Importações/Importação.md",
+    "PP - Consolidador/Importações/Importação Expressa.md",
+    "PP - Consolidador/Caixa Postal",
+    "PP - Consolidador/Utilitários",
+    "PP - Consolidador/BDF BANCO DE DADO FRANQUIA",
+    "PP - Consolidador/Faturas",
+    "PP - Consolidador/Pesquisas",
+    "PP - Consolidador/Expedição",
+    "PP - Consolidador/Relatórios",
+    "PP - Consolidador/Exportações",
+    "PP - Consolidador/Importações",
+    "Layout.md",
+    "PP - Consolidador/Consolidador MENU.md",
+    "PP - Consolidador/Exportações/Exportar.md",
+    "Bipar Objeto.md",
+    "BOXCUBO.md",
+    "Sincronização.md"
+  ]
+}

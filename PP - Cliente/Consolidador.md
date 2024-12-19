@@ -1,0 +1,1 @@
+[Documentação Consolidador](obsidian://open?vault=PP%20-%20Consolidador&file=Consolidador%20MENU)

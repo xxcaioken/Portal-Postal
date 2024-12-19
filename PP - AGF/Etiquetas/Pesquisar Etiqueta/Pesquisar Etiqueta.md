@@ -1,2 +1,0 @@
-- Nesta tela podemos buscar por etiquetas especificadas através do código do PP/código de SRO ou todas de um cliente especifico afuniladas por um período.
-- ![[Pasted image 20241216162737.png]]

@@ -1,0 +1,1 @@
+Nosso Sistema de medição e pesagem dos pacotes, precisamos que sempre seja um objeto de formato quadrado para permitir os sensores, que funcionam de formato ultra sônico então depende do retorno da onda para tirar a metrica do tamanho.

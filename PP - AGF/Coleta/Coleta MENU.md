@@ -1,5 +1,0 @@
-- ![[Pasted image 20241216170334.png]]
-- [[Acompanhamento]]
-- [[Nova Coleta]]
-- [[Cadastro de rotas]]
-- [[Tipos de coleta]]

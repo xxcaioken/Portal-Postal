@@ -1,3 +1,0 @@
-- Esta é uma área para adicionar e editar prefixos para as [[Etiqueta]]s de um serviço especifico.
-- ![[Pasted image 20241217164448.png]]
-- ![[Pasted image 20241217164505.png]]

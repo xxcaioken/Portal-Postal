@@ -1,0 +1,1 @@
+Fazer a venda manual via PP

@@ -1,5 +1,0 @@
-- Divide os clientes em níveis e determina a rentabilidade deles.
-	- Varia muito o funcionamento de acordo com a maneira que a agencia trabalha
-	- Filtrar por grupo de faturamento, que é definido na criação desse novo cliente é uma boa pedida
-	- criar o espaço de tempo também é possível nesse contexto
-	- ![[Pasted image 20241216140025.png]]
